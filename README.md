@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on backend webdevelopment
 - 🌱 I’m currently learning all the secrets that nodejs and react have in store for me
 - 📫 My website is reachable through your browser at www.casparsteinebach.nl
 - ⚡ Fun fact: I have a bachelor's degree in Archaeology which makes me an Archaeologist 🥷🏼
+
+> "If debugging is the process of removing software bugs, then programming must be the process of putting them in"
+> - Edsger W. Dijkstra
 <!--
 **CasparSteinebach/CasparSteinebach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
